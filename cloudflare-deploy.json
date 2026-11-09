@@ -1,0 +1,8 @@
+{
+  "name": "musical-mystery-agency",
+  "domain": "mma.johnshawler.com",
+  "compatibility_date": "2026-11-09",
+  "main_module": "worker.js",
+  "observability": {"enabled": true, "head_sampling_rate": 0.1, "traces": {"enabled": true, "head_sampling_rate": 0.1}},
+  "description": "The complete portable dist directory is packaged as static module data and served by the Worker. No external data store or runtime credential is used."
+}
